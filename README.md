@@ -1,7 +1,7 @@
 # Project1
 
 # Project 1 Details
-Important: This project is due 10/14/2024 at 11:59 PM.  No late submissions will be accepted.  
+Important: This project is due 03/23/2025 at 11:59 PM.  No late submissions will be accepted.  
 
 This program will be written in the C++ language, and recap pointers, structures, and dynamic memory allocation.
 
